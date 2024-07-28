@@ -12,15 +12,30 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 20 Jun 2018 07:25:44 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jul 2024 03:36:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
-		<title>Handpicked Red Chillies</title>
+		<title>Patchouli</title>
+		<link>./../../product/patchouli/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 27 Jul 2024 03:36:15 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product#038;p=5514</guid>
+
+					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
+										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ginger</title>
 		<link>./../../product/handpicked-red-chillies/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -35,7 +50,7 @@
 		
 			</item>
 		<item>
-		<title>Pulses From Organic Farm</title>
+		<title>Lemon</title>
 		<link>./../../product/pulses-from-organic-farm/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -50,7 +65,7 @@
 		
 			</item>
 		<item>
-		<title>Fresh Orange Juice</title>
+		<title>Myristica</title>
 		<link>./../../product/fresh-orange-juice/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -65,7 +80,7 @@
 		
 			</item>
 		<item>
-		<title>Hand Sanitizer</title>
+		<title>Kaempferia Galanga</title>
 		<link>./../../product/hand-sanitizer/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -80,7 +95,7 @@
 		
 			</item>
 		<item>
-		<title>Farm Fresh Eggs</title>
+		<title>Cananga</title>
 		<link>./../../product/farm-fresh-eggs/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -95,7 +110,7 @@
 		
 			</item>
 		<item>
-		<title>Fresh Organic Honey</title>
+		<title>Syzygium Aromaticum</title>
 		<link>./../../product/fresh-organic-honey/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -110,7 +125,7 @@
 		
 			</item>
 		<item>
-		<title>Natural Extracted Edible Oil</title>
+		<title>Vetiver</title>
 		<link>./../../product/natural-extracted-olive-oil/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -125,7 +140,7 @@
 		
 			</item>
 		<item>
-		<title>Assorted Coffee</title>
+		<title>Piper Betle</title>
 		<link>./../../product/assorted-coffee/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -140,27 +155,12 @@
 		
 			</item>
 		<item>
-		<title>Wheat From Organic Farms</title>
+		<title>Curcuma Longa</title>
 		<link>./../../product/wheat-from-organic-farms/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 19 Jun 2018 13:40:31 +0000</pubDate>
 				<guid isPermaLink="false">./../../product/wheat-from-organic-farms/index.html</guid>
-
-					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
-										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Diabetic Cookies</title>
-		<link>./../../product/diabetic-cookies/index.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 19 Jun 2018 13:34:23 +0000</pubDate>
-				<guid isPermaLink="false">./../../product/diabetic-cookies/index.html</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
